@@ -1,0 +1,5 @@
+name: DamageReduction-Plugin
+version: '1.0-SNAPSHOT'
+main: pl.qlnus.Main
+api-version: '1.20'
+website: monsidigi.pl
